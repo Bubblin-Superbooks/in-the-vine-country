@@ -1,0 +1,22 @@
+{
+  "name": "In the vine country",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/in-the-vine-country/master/assets",
+  "book_id": 1270,
+  "book_url": "https://bubblin.io/book/in-the-vine-country-by-e-oe-somerville-and-martin-ross"
+}
